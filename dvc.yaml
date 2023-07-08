@@ -1,0 +1,4 @@
+artifacts:
+  image-sysnthesis-model:
+    path: models/image-sysnthesis-model.h5
+    type: model
